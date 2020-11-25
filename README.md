@@ -7,7 +7,7 @@
 1. [用条件变量和互斥锁实现的高速缓存Demo](https://github.com/JackieChan0115/cstudy/blob/master/producer_consumer.cpp)
 2. [多线程资源回收Demo](https://github.com/JackieChan0115/cstudy/blob/master/pthread_clean.cpp)
 3. [线程取消Demo](https://github.com/JackieChan0115/cstudy/blob/master/pthread_cancel.cpp)
-
+4. [避免僵尸线程](https://github.com/JackieChan0115/cstudy/blob/master/pthread_defunct.cpp)
 
 ## 近期计划内容
 
