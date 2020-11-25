@@ -8,6 +8,7 @@
 2. [多线程资源回收Demo](https://github.com/JackieChan0115/cstudy/blob/master/pthread_clean.cpp)
 3. [线程取消Demo](https://github.com/JackieChan0115/cstudy/blob/master/pthread_cancel.cpp)
 4. [避免僵尸线程](https://github.com/JackieChan0115/cstudy/blob/master/pthread_defunct.cpp)
+5. [文件复制Demo 类似cp](https://github.com/JackieChan0115/cstudy/blob/master/copyfile.cpp)
 
 ## 近期计划内容
 
