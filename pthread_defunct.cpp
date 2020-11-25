@@ -18,7 +18,6 @@
 #include <iostream>
 #include <pthread.h>
 #include <unistd.h>
-#include <stdlib.h>
 using namespace std;
 
 // 0,1,2,3和分别对应要测试的不设置unjoinable,和方法1,及方法2的两个方式
