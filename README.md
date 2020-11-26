@@ -9,6 +9,8 @@
 3. [线程取消Demo](https://github.com/JackieChan0115/cstudy/blob/master/pthread_cancel.cpp)
 4. [避免僵尸线程](https://github.com/JackieChan0115/cstudy/blob/master/pthread_defunct.cpp)
 5. [文件复制Demo 类似cp](https://github.com/JackieChan0115/cstudy/blob/master/copyfile.cpp)
+6. [Linux操作命令](https://github.com/JackieChan0115/cstudy/blob/master/linux-order.md)
+7. [快速排序非迭代实现](https://github.com/JackieChan0115/cstudy/blob/master/qsort.md)
 
 ## 近期计划内容
 
