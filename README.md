@@ -10,11 +10,11 @@
 4. [避免僵尸线程](https://github.com/JackieChan0115/cstudy/blob/master/pthread_defunct.cpp)
 5. [文件复制Demo 类似cp](https://github.com/JackieChan0115/cstudy/blob/master/copyfile.cpp)
 6. [Linux操作命令](https://github.com/JackieChan0115/cstudy/blob/master/linux-order.md)
-7. [快速排序非迭代实现](https://github.com/JackieChan0115/cstudy/blob/master/qsort.md)
+7. [快速排序非递归实现](https://github.com/JackieChan0115/cstudy/blob/master/qsort.md)
 
 ## 近期计划内容
 
-1. 冒泡排序， 选择排序，插入排序，快速排序，堆排序，归并排序，希尔排序，桶排序，基数排序，计数排序
+1. 冒泡排序， 选择排序，插入排序，[快速排序](https://github.com/JackieChan0115/cstudy/blob/master/qsort.md)，堆排序，归并排序，希尔排序，桶排序，基数排序，计数排序
 2. vim使用技巧积累
 3. 多线程和进程相关的学习内容
 
