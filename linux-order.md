@@ -51,12 +51,13 @@ ls -l # 查看当前目录下所有文件和目录的信息, 输出如下
 drwxrwxr-x 1 root root  45776 Nov 22 08:43 bookdir
 ----------------------------------------------------------
 其中 -rwxrwxr-x 共10个字符，第1个字符: 横杠 - 代表是文件；字母d 代表是目录;
-													后9个字符rwxrwxr-x，是权限信息，解释如下：
+	       后9个字符rwxrwxr-x，是权限信息，解释如下：
 ```
 
 
 
 ![image-20201126131521808](/Users/sytm/Library/Application Support/typora-user-images/image-20201126131521808.png)
+
 
 ```shell
 umask # 查看默认文件配置权限的掩码，是真实权限信息取反转化成8进制
