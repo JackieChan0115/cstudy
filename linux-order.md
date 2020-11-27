@@ -56,7 +56,7 @@ drwxrwxr-x 1 root root  45776 Nov 22 08:43 bookdir
 
 
 
-![image-20201126131521808](/Users/sytm/Library/Application Support/typora-user-images/image-20201126131521808.png)
+![image-20201126131521808](https://github.com/JackieChan0115/cstudy/blob/master/assets/imgs/image-20201126131521808.png)
 
 ```shell
 umask # 查看默认文件配置权限的掩码，是真实权限信息取反转化成8进制
