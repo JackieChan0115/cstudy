@@ -12,6 +12,7 @@
 6. [Linux操作命令](https://github.com/JackieChan0115/cstudy/blob/master/linux-order.md)
 7. [用c++ socket写的简单的http服务器](https://github.com/JackieChan0115/cstudy/blob/master/simple-httpserver)
 8. [快速排序非递归实现](https://github.com/JackieChan0115/cstudy/blob/master/qsort.md)
+9. [gcc静态编译库文件并链接到主程序的问题](https://github.com/JackieChan0115/cstudy/blob/master/gcc-static.md)
 
 ## 近期计划内容
 
