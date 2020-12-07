@@ -129,7 +129,7 @@ gcc -c -o libtprint.a tprint.c
 ```shell
  gcc -o ctest ctest.c tprint.h -L. -ltprint -static
  # -L. 指定当前目录， -ltprint,指定要链接的库文件是libtprint.a, -static指定要直接匹配libtprint.a,
- # 如果不指定-static,会优先找libtprint.so(动态链接库)，指定了-static,直接找静态链接库
+ # 如果不指定-static,会优先找libtprint.so(动态链接库)，指定了-static,直接找静态链接库,如果找不到就报错咯
 ```
 
 然后执行：
@@ -146,3 +146,4 @@ gcc -c -o libtprint.a tprint.c
 
 以上是使用gcc的过程中遇到的问题，并没有详细介绍gcc命令，这样的讲解有很多，光看是没用的，还得在实际练习中去学习。之前没有怎么使用过gcc，现在还是喜欢这种编译方式，能够更清楚的知道编译过程都做了什么，比直接使用IDE更锻炼基本功。
 
+### [官方详细教程](http://c.biancheng.net/view/8020.html)
