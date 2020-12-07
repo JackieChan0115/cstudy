@@ -14,6 +14,8 @@
 8. [快速排序非递归实现](https://github.com/JackieChan0115/cstudy/blob/master/qsort.md)
 9. [gcc编译静态库并链接到主程序的问题](https://github.com/JackieChan0115/cstudy/blob/master/gcc-static.md)
 10. [gcc编译动态库并链接到主程序的问题](https://github.com/JackieChan0115/cstudy/blob/master/gcc-dynamic.md)
+11. [测试字节序的方法](https://github.com/JackieChan0115/cstudy/blob/master/byteorder.c)
+12. [socket客户端服务端示例](https://github.com/JackieChan0115/cstudy/blob/master/socket-example)
 
 ## 近期计划内容
 
