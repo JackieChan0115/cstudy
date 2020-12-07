@@ -43,7 +43,7 @@ tar -xvf glibc-2.32.tar.xz
 
 ```shell
 mkdir glib
-mv -r glibc-2.32 ./glib/
+mv  glibc-2.32 ./glib/
 cd ./glib/ # 进入到glib目录下
 ```
 
