@@ -83,7 +83,7 @@ cp libc.a libc.so /usr/lib/ # 其实只需要静态库libc.a就够了，万一�
 
 **然后再使用gcc执行静态链接过程就应该畅通无阻了**
 
-
+我编译好的[libc.a](https://github.com/JackieChan0115/cstudy/blob/master/assets/lib/libc.a)和[libc.so](libc.a](https://github.com/JackieChan0115/cstudy/blob/master/assets/lib/libc.so)放在了assets/lib下面，可以点击下载.
 
 ### gcc编译链接静态库的案例
 
