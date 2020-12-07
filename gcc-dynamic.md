@@ -33,7 +33,7 @@
 
    
 
-编译tprint.c为静态库
+编译tprint.c为动态链接库
 
 ```shell
 gcc -fPIC -shared -o libtprint.so tprint.c
@@ -41,7 +41,7 @@ gcc -fPIC -shared -o libtprint.so tprint.c
 # 其中，-shared 选项用于生成动态链接库；-fpic（还可写成 -fPIC）选项的功能是，令 GCC 编译器生成动态链接库（多个目标文件的压缩包）时，表示各目标文件中函数、类等功能模块的地址使用相对地址，而非绝对地址。这样，无论将来链接库被加载到内存的什么位置，都可以正常使用。
 ```
 
-编译ctest.c并链接libtprint.a
+编译ctest.c并链接libtprint.so
 
 ```shell
  gcc -o ctest ctest.c tprint.h -L. -ltprint -shared
