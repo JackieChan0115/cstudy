@@ -25,7 +25,7 @@ Error: Unable to find a match: glibc-static
 http://ftp.gnu.org/gnu/glibc/
 ```
 
-在这个网站上有很多glibc的二进制压缩包，单宁都是源码，那只能下载下来自己编译了。我选择了http://ftp.gnu.org/gnu/glibc/glibc-2.32.tar.xz
+在这个网站上有很多glibc的二进制压缩包, 但都是源码，那只能下载下来自己编译了。我选择了http://ftp.gnu.org/gnu/glibc/glibc-2.32.tar.xz
 
 使用wget执行下载命令：
 
@@ -87,7 +87,7 @@ cp libc.a libc.so /usr/lib/ # 其实只需要静态库libc.a就够了，万一�
 
 ### gcc编译链接静态库的案例
 
-**要求：共三个文件，tprint.h, tprint.c, ctest.c， 其中usr.h是usr.c的函数声明头文件，将tprint.c编译成静态库，在ctest.c文件中调用该静态库。**
+**要求：共三个文件，tprint.h, tprint.c, ctest.c， 其中tprint.h是tprint.c的函数声明头文件，将tprint.c编译成静态库，在ctest.c文件中调用该静态库。**
 
 1. tprint.h
 
