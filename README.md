@@ -16,6 +16,7 @@
 10. [gcc编译动态库并链接到主程序的问题](https://github.com/JackieChan0115/cstudy/blob/master/gcc-dynamic.md)
 11. [测试字节序的方法](https://github.com/JackieChan0115/cstudy/blob/master/byteorder.c)
 12. [socket客户端服务端示例](https://github.com/JackieChan0115/cstudy/blob/master/socket-example)
+13. [const解惑](https://github.com/JackieChan0115/cstudy/blob/master/const.md) 
 
 ## 近期计划内容
 
