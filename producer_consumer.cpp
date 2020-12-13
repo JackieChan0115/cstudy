@@ -61,7 +61,7 @@ struct CacheBlock{
         return ans;
     }
     bool isEmpty(){
-        return head.next != NULL;
+        return head.next == NULL;
     }
 };
 
@@ -90,7 +90,7 @@ void *outcache(void* args){
     while(true){	
         // request a lock
         pthread_mutex_lock(&mtx);
-        while(!cacheContainer.isEmpty())
+        while(cacheContainer.isEmpty())
         {
           // wait the condtion
           pthread_cond_wait(&cond, &mtx);

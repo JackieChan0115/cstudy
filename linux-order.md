@@ -95,6 +95,7 @@ grep -[i,n] [pattern|string] [filename] # -i选项可以让大小写不敏感,-n
 grep -F [搜索的字符串可以包含正则表达式的符号] [filename]
 grep -E "linux|Linux" test.txt # -E选项让扩展正则表达式生效，在test.txt文件中搜索linux和Linux
 grep -[c,o] # -c 是统计搜索到的数量， -o是只显示搜索到的字符串，不显示相关行的完整信息
+grep -o "key" filename | wc -l # 统计filename文件中关键字key出现的次数
 ```
 
 #### 7.find命令
@@ -109,7 +110,7 @@ find [path] -size  -6k.         # 查找文件大小小于6k的文件
 find [path] -size +6k -size -8k	#查找文件大小在6k和8k之间的文件
 ```
 
-#### 8.uniq命令
+#### 8.uniq命令  
 
 ````shell
 uniq [filename] # 可以将文件中的所有行在输出的时候，去掉重复行

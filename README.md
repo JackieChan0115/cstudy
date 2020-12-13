@@ -17,6 +17,8 @@
 11. [测试字节序的方法](https://github.com/JackieChan0115/cstudy/blob/master/byteorder.c)
 12. [socket客户端服务端示例](https://github.com/JackieChan0115/cstudy/blob/master/socket-example)
 13. [const解惑](https://github.com/JackieChan0115/cstudy/blob/master/const.md) 
+14. [C++三种重定向输入输出的方法](https://github.com/JackieChan0115/cstudy/blob/master/redirectbuffer.cpp) 
+15. [C++实现模仿linux的bash窗口](https://github.com/JackieChan0115/cstudy/blob/master/minibash.cpp)
 
 ## 近期计划内容
 
