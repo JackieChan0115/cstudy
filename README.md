@@ -4,25 +4,25 @@
 ----------------------------------------------------------------------------
 
 ### 代码目录
-1. [用条件变量和互斥锁实现的高速缓存Demo](https://github.com/JackieChan0115/cstudy/master/producer_consumer.cpp)
-2. [多线程资源回收Demo](https://github.com/JackieChan0115/cstudy/master/pthread_clean.cpp)
-3. [线程取消Demo](https://github.com/JackieChan0115/cstudy/master/pthread_cancel.cpp)
-4. [避免僵尸线程](https://github.com/JackieChan0115/cstudy/master/pthread_defunct.cpp)
-5. [文件复制Demo 类似cp](https://github.com/JackieChan0115/cstudy/master/copyfile.cpp)
-6. [Linux操作命令](https://github.com/JackieChan0115/cstudy/master/linux-order.md)
-7. [用c++ socket写的简单的http服务器](https://github.com/JackieChan0115/cstudy/master/simple-httpserver)
-8. [快速排序非递归实现](https://github.com/JackieChan0115/cstudy/master/qsort.md)
-9. [gcc编译静态库并链接到主程序的问题](https://github.com/JackieChan0115/cstudy/master/gcc-static.md)
-10. [gcc编译动态库并链接到主程序的问题](https://github.com/JackieChan0115/cstudy/master/gcc-dynamic.md)
-11. [测试字节序的方法](https://github.com/JackieChan0115/cstudy/master/byteorder.c)
-12. [socket客户端服务端示例](https://github.com/JackieChan0115/cstudy/master/socket-example)
-13. [const解惑](https://github.com/JackieChan0115/cstudy/master/const.md) 
-14. [C++三种重定向输入输出的方法](https://github.com/JackieChan0115/cstudy/master/redirectbuffer.cpp) 
-15. [C++实现模仿linux的bash窗口](https://github.com/JackieChan0115/cstudy/master/minibash.cpp)
+1. [用条件变量和互斥锁实现的高速缓存Demo](https://github.com/JackieChan0115/cstudy/blob/master/producer_consumer.cpp)
+2. [多线程资源回收Demo](https://github.com/JackieChan0115/cstudy/blob/master/pthread_clean.cpp)
+3. [线程取消Demo](https://github.com/JackieChan0115/cstudy/blob/master/pthread_cancel.cpp)
+4. [避免僵尸线程](https://github.com/JackieChan0115/cstudy/blob/master/pthread_defunct.cpp)
+5. [文件复制Demo 类似cp](https://github.com/JackieChan0115/cstudy/blob/master/copyfile.cpp)
+6. [Linux操作命令](https://github.com/JackieChan0115/cstudy/blob/master/linux-order.md)
+7. [用c++ socket写的简单的http服务器](https://github.com/JackieChan0115/cstudy/blob/master/simple-httpserver)
+8. [快速排序非递归实现](https://github.com/JackieChan0115/cstudy/blob/master/qsort.md)
+9. [gcc编译静态库并链接到主程序的问题](https://github.com/JackieChan0115/cstudy/blob/master/gcc-static.md)
+10. [gcc编译动态库并链接到主程序的问题](https://github.com/JackieChan0115/cstudy/blob/master/gcc-dynamic.md)
+11. [测试字节序的方法](https://github.com/JackieChan0115/cstudy/blob/master/byteorder.c)
+12. [socket客户端服务端示例](https://github.com/JackieChan0115/cstudy/blob/master/socket-example)
+13. [const解惑](https://github.com/JackieChan0115/cstudy/blob/master/const.md) 
+14. [C++三种重定向输入输出的方法](https://github.com/JackieChan0115/cstudy/blob/master/redirectbuffer.cpp) 
+15. [C++实现模仿linux的bash窗口](https://github.com/JackieChan0115/cstudy/blob/master/minibash.cpp)
 
 ## 近期计划内容
 
-1. 冒泡排序， 选择排序，插入排序，[快速排序](https://github.com/JackieChan0115/cstudy/master/qsort.md)，堆排序，归并排序，希尔排序，桶排序，基数排序，计数排序
+1. 冒泡排序， 选择排序，插入排序，[快速排序](https://github.com/JackieChan0115/cstudy/blob/master/qsort.cpp)，堆排序，归并排序，希尔排序，桶排序，基数排序，计数排序
 2. vim使用技巧积累
 3. 多线程和进程相关的学习内容
 
